@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Project Skeleton Key
 
-You can use the [editor on GitHub](https://github.com/RexRowan/Project_Skeleton_Key/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a research project dedicated to human cooperation in the face of the current existential crisis. We are looking into the core of humanity and trying to bring all people on this planet together to help save ourselves from our own ignorance, conflicts, and destruction. We humans ever since the dawn of Homo Erectus have successfully survived harsh environments as well as competitions against other species and subspecies by coordinating our activities together to maximize our chances of survival, we can and need to do this again. Join us!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
