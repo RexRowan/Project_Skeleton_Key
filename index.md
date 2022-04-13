@@ -8,4 +8,4 @@ Please view our official online publication [Sapien Forming](https://medium.com/
 
 ### Support or Contact
 
-You are welcome to contact me on [Twitter](https://twitter.com/EINoctem).
+You are welcome to follow our director on [Twitter](https://twitter.com/EINoctem).
